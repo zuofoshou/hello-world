@@ -1,3 +1,4 @@
 # hello-world
-just another repoistory
+翻译全攻略
 2018-1-9
+2019-4-15
